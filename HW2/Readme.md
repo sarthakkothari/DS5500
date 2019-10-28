@@ -78,7 +78,7 @@ gdp_life.corr()
 
 ```
 
-![Image of GDP and Life](https://github.com/sarthakkothari/DS5500/tree/master/HW2/GDP_Life.png)
+![Image of GDP and Life](GDP_Life.png)
 
 ```
 X = gdp_life['gdp'].values.reshape(-1, 1)
@@ -87,7 +87,7 @@ modelHelper(LinearRegression(), X, Y, 'GDP', 'Life Expectancy', 'GDP_Life.png')
 
 ```
 
-![Image of GDP and Life Model](https://github.com/sarthakkothari/DS5500/tree/master/HW2/GDP_Life_Model.png)
+![Image of GDP and Life Model](GDP_Life_Model.png)
 
 Since there exist a high correlation between the GDP and the life expectancy it is easy to estimate the relationship via a linear model. As one can see the model is able to estimate the relationship quite well.
 
@@ -106,7 +106,7 @@ gdp_child.corr()
 
 ```
 
-![Image of GDP and Child](https://github.com/sarthakkothari/DS5500/tree/master/HW2/GDP_Child.png)
+![Image of GDP and Child](GDP_Child.png)
 
 ```
 X = gdp_child['gdp'].values.reshape(-1, 1)
@@ -114,6 +114,6 @@ Y = gdp_child['child'].values
 modelHelper(LinearRegression(), X, Y, 'GDP', 'Child Mortality', 'GDP and Child.png')
 ```
 
-![Image of GDP and Child Model](https://github.com/sarthakkothari/DS5500/tree/master/HW2/GDP_Child_Model.png)
+![Image of GDP and Child Model](GDP_Child_Model.png)
 
 Similar to GDP and Life expectancy, GDP and child mortality too have a high correlation. Using a linear model again delivers a good estimate of the relationship between the two variables. It is intresting to see the steady drop in the child mortality rate as overall gdp increases.
