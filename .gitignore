@@ -2,4 +2,5 @@
 *.csv
 .DS_*
 data/*
+data2/*
 ddf--gapminder--systema_globalis-master/*
