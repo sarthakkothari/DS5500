@@ -108,10 +108,10 @@ top['NewBudget'] = top['TFEDREV'] - top['BudgetCut']
 top[['LEAID', 'BudgetCut', 'NewBudget']].head(20)
 ```
 
-Total Budget : 55602739138
-15% of Total Budget : 8340410870
-Total Districts : 7217
-Districts with percentage of proficent students 1 standard diviation away from mean : 5946
+Total Budget : 55602739138 <br/>
+15% of Total Budget : 8340410870 <br/>
+Total Districts : 7217 <br/>
+Districts with percentage of proficent students 1 standard diviation away from mean : 5946 <br/>
 ![Q4](Q4.png)
 
 # Problem 5
