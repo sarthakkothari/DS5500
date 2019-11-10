@@ -4,3 +4,5 @@ Please find the Notebooks and Readmes for each assginment in the respective fold
 HW1 : https://github.com/sarthakkothari/DS5500/tree/master/HW1
 
 HW2: https://github.com/sarthakkothari/DS5500/tree/master/HW2
+
+HW3: https://github.com/sarthakkothari/DS5500/tree/master/HW3
