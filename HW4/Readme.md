@@ -117,6 +117,7 @@ plt.show()
 ```
 
 ![Q2](Q2.png)
+
 My method for selection for budget cuts does include a bias, BLP is significantly less affected by the budget cuts and WHP is affected significantly more by budget cut.
 
 # Problem 3
